@@ -1,0 +1,16 @@
+{
+  "short_name": "AbhiShare",
+  "name": "AbhiShare — Seamless Carpooling",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0B1B3B",
+  "theme_color": "#0B1B3B",
+  "display": "standalone",
+  "orientation": "portrait"
+}

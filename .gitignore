@@ -1,0 +1,39 @@
+
+# Flutter generated files
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+*.env
+backend/.env
+!*.env.example
+*.json.key
+*service-account*.json
+backend/service-account.json
+
+# Flutter
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/.packages
+mobile/.pub-cache/
+
+# IDE
+mobile/.idea/
+*.iml
+
+# Runtime uploads
+backend/uploads/
+
+prompt.txt
+
+backend/.env

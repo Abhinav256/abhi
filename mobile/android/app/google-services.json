@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391201581025",
+    "project_id": "abhishare-d40ae",
+    "storage_bucket": "abhishare-d40ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391201581025:android:b15beae8cdcd0045e814a0",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5k1G7kCdSh1-t2N-vJHzkAiuAxosJnms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
